@@ -1,0 +1,12 @@
+{
+  "names": [
+    "Corollary 2.12"
+  ],
+  "indexable": false,
+  "statement": "If $x,y \\in G$, let $f = f_{x,y}: \\Z^2 \\to \\R$ denote the function\n\n$$f(m,k) \\coloneqq \\ell{ x^m [x,y]^k }.$$ \n\nThen for any $m,k \\in \\Z$, we have\n\n$$f(m,k) \\leq \\frac{f(m-1,k) + f(m+1,k-1)}{2} + { 2c}. $$",
+  "negativeStatement": "",
+  "lookupTerms": [
+    "#.2wK/T.6QP"
+  ],
+  "contributor": "abc"
+}

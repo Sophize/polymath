@@ -1,0 +1,12 @@
+{
+  "names": [
+    "(2.7)"
+  ],
+  "indexable": false,
+  "statement": "$\\ell{x} \\leq \\frac{\\ell{x^n}}{n}  + { c}$",
+  "negativeStatement": "",
+  "lookupTerms": [
+    "#.2wK/T.6QP"
+  ],
+  "contributor": "abc"
+}

@@ -1,0 +1,7 @@
+{
+  "indexable": true,
+  "phrase": "homogeneous length function",
+  "language": "INFORMAL",
+  "formalDefinition": "A homogeneous length function is a non-negative norm function  ${\\| \\|: F_2 \\rightarrow {\\bf R}^+}$  that obeys the triangle inequality <a name=\"tri\"></a>\n\n$$\\displaystyle  \\| xy \\| \\leq \\| x\\| + \\| y\\| \\ \\ \\ \\ \\ (1)$$\n\n<a name=\"tri\"></a> for all  ${x,y \\in F_2}$ , and the linear growth <a name=\"nx\"></a>\n\n $$\\displaystyle  \\| x^n \\| = |n| \\|x\\| \\ \\ \\ \\ \\ (2)$$\n\n<a name=\"nx\"></a> for all  ${x \\in F_2}$  and  ${n \\in {\\bf Z}}$ , and such that  ${\\|x\\| > 0}$  for all non-identity  ${x \\in F_2}$.",
+  "contributor": "abc"
+}

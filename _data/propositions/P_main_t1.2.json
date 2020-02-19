@@ -1,0 +1,12 @@
+{
+  "names": [
+    "Theorem 1.2"
+  ],
+  "indexable": true,
+  "statement": "There exist a real Banach space #T_arbit_banach_space ( #T_arbit_banach_space_set, #T_arbit_banach_space_norm ) and a #T_group_homomorphism $\\phi : G \\to \\mathbb{B}$ such that $\\ell{x} = \\| \\phi(x) \\|$ for all $x \\in G$. Furthermore, if $\\ell$ is a #T_length_function, one can take #T_arbit_homomorphism to be injective, i.e., an isometric embedding.",
+  "negativeStatement": "",
+  "lookupTerms": [
+    "#.2wK/T.6Zl"
+  ],
+  "contributor": "abc"
+}

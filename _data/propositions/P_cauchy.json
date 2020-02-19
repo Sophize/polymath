@@ -1,0 +1,9 @@
+{
+  "names": [
+    "Cauchy–Schwarz inequality"
+  ],
+  "indexable": false,
+  "statement": "For all vectors $u$ and $v$ of an inner product space it is true that\n\n$|\\langle \\mathbf {u} ,\\mathbf {v} \\rangle |^{2}\\leq \\langle \\mathbf {u} ,\\mathbf {u} \\rangle \\cdot \\langle \\mathbf {v} ,\\mathbf {v} \\rangle$\nwhere $\\langle \\cdot ,\\cdot \\rangle$  is the inner product.",
+  "negativeStatement": "",
+  "contributor": "abc"
+}

@@ -1,0 +1,12 @@
+{
+  "names": [
+    "Lemma 2.8"
+  ],
+  "indexable": false,
+  "statement": "For any $x,y \\in G$, $\\ell{yxy^{-1} } \\leq { \\ell{ x } + c}$",
+  "negativeStatement": "",
+  "lookupTerms": [
+    "#.2wK/T.6QP"
+  ],
+  "contributor": "abc"
+}

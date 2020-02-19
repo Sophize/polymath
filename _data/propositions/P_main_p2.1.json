@@ -1,0 +1,12 @@
+{
+  "names": [
+    "Proposition 2.1"
+  ],
+  "indexable": false,
+  "statement": "For any $x,y \\in G$, one has $\\ell{ [x,y] } \\leq { 5 c}$",
+  "negativeStatement": "",
+  "lookupTerms": [
+    "#.2wK/T.6QP"
+  ],
+  "contributor": "abc"
+}

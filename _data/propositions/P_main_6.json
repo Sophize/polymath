@@ -1,0 +1,12 @@
+{
+  "names": [
+    ""
+  ],
+  "indexable": false,
+  "statement": "$\\ell{x^n} \\geq { n \\ell{x} - \\log_2(n)\\, c \\geq n \\ell{x} - n c}$ whenever $n$ is a power of two.",
+  "negativeStatement": "",
+  "lookupTerms": [
+    "#.2wK/T.6QP"
+  ],
+  "contributor": "abc"
+}

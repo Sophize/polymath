@@ -1,0 +1,13 @@
+{
+  "names": [
+    ""
+  ],
+  "indexable": false,
+  "statement": "If $\\phi(x)$ is injective, $\\| \\phi(x) \\|$ is a #T_hlf .",
+  "negativeStatement": "",
+  "lookupTerms": [
+    "#.2wK/T.6Zl",
+    "#.2wK/T.8xA"
+  ],
+  "contributor": "abc"
+}

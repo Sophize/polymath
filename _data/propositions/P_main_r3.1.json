@@ -1,0 +1,9 @@
+{
+  "names": [
+    "Remark 3.1"
+  ],
+  "indexable": false,
+  "statement": "#(T_hplf, 'Homogeneous pseudo-length functions') on $G$ are in bijection with seminorms on the real vector space $G_{\\mathrm{ab},0} \\otimes_\\Z \\R$, where $G_{\\mathrm{ab},0}$ denotes the torsion-free abelianization of $G$.",
+  "negativeStatement": "",
+  "contributor": "abc"
+}

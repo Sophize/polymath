@@ -1,0 +1,6 @@
+{
+  "indexable": false,
+  "phrase": "custom property function1",
+  "formalDefinition": "$\\ell: G \\to \\R$ is a function obeying the following axioms: \n* For any $x,y \\in G$, one has ${\\ell({xy})} \\leq {\\ell({x})}+{\\ell({y})}$. \n* For any $x \\in G$, one has ${\\ell({x^2})} \\geq 2{\\ell({x})} - { c}.$",
+  "contributor": "abc"
+}

@@ -1,0 +1,12 @@
+{
+  "names": [
+    "Lemma 2.10"
+  ],
+  "indexable": false,
+  "statement": "Let $x,y,z,w \\in G$ be such that $x$ is conjugate to both $wy$ and $zw^{-1}$. Then one has \n\n$${\\ell({x})} \\leq \\frac{{\\ell({y})} + {\\ell({ z })} }{2}  + \\frac{3}{2}{ c}.$$",
+  "negativeStatement": "",
+  "lookupTerms": [
+    "#.2wK/T.6QP"
+  ],
+  "contributor": "abc"
+}

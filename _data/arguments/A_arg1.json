@@ -1,0 +1,9 @@
+{
+  "indexable": false,
+  "premises": [
+    "#.2wK/T.RGo:D"
+  ],
+  "conclusion": "#.2wK/P.8yN:Y",
+  "argumentText": "Hint: Set $d(x,y) \\coloneqq {\\ell({x^{-1}y})}$",
+  "contributor": "abc"
+}

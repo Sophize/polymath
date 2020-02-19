@@ -1,0 +1,12 @@
+{
+  "names": [
+    ""
+  ],
+  "indexable": false,
+  "statement": "For $x\\in [G, G]$, ${\\ell({x})}\\leq (5\\, \\mathrm{cl}(x) + 1)c$ and ${\\ell({x})}\\leq (5\\, \\mathrm{scl}(x) + 1)c$.",
+  "negativeStatement": "",
+  "lookupTerms": [
+    "#.2wK/T.6QP"
+  ],
+  "contributor": "abc"
+}

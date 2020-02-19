@@ -1,0 +1,6 @@
+{
+  "indexable": false,
+  "phrase": "group homomorphism",
+  "formalDefinition": "Given two groups, $(G, ∗)$ and $(H, ·)$, a group homomorphism from $(G, ∗)$ to $(H, ·)$ is a function $h : G \\to H$ such that for all u and v in G it holds that\n$$h(u*v)=h(u)  \\cdot h(v) $$ \n\nwhere the group operation on the left hand side of the equation is that of $G$ and on the right hand side that of $H$.",
+  "contributor": "abc"
+}

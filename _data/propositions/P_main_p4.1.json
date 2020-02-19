@@ -1,0 +1,9 @@
+{
+  "names": [
+    ""
+  ],
+  "indexable": false,
+  "statement": "Let $\\mathcal{C}_{\\rm{bi-inv}}$ denote the category whose objects are cancellative semigroups with bi-invariant metrics, and morphisms are isometric semigroup maps. Then $\\mathrm{FMon}(X)$ embeds isometrically into $\\mathrm{FGp}(X)$ in $\\mathcal{C}_{\\rm{bi-inv}}$.",
+  "negativeStatement": "",
+  "contributor": "abc"
+}

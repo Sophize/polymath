@@ -1,0 +1,12 @@
+{
+  "names": [
+    "Remark 2.5"
+  ],
+  "indexable": false,
+  "statement": "For any $x,y \\in G$, one has $\\ell{ [x,y] } \\leq { 5c + 4k}$",
+  "negativeStatement": "",
+  "lookupTerms": [
+    "#.2wK/T.RjW"
+  ],
+  "contributor": "abc"
+}

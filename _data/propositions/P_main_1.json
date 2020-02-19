@@ -1,0 +1,9 @@
+{
+  "names": [
+    ""
+  ],
+  "indexable": true,
+  "statement": "#(T_plf, 'Pseudo-length functions') (resp. #(T_length_function, 'length-functions') ) are in bijection with left-invariant pseudometrics (resp. left-invariant metrics) on #T_arbit_group .",
+  "negativeStatement": "",
+  "contributor": "abc"
+}

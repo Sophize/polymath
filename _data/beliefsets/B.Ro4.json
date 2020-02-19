@@ -1,0 +1,10 @@
+{
+  "names": [
+    "Polymath14 w/o Cauchy-Schwarz"
+  ],
+  "indexable": true,
+  "unsupportedPropositionPtrs": [
+    "#.global/P.lqm:Y"
+  ],
+  "contributor": "abc"
+}

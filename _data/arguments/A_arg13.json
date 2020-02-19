@@ -1,0 +1,11 @@
+{
+  "indexable": false,
+  "premises": [
+    "#.2wK/P.6kM:Y",
+    "#.2wK/P.8xA:Y",
+    "#.2wK/T.R21:D"
+  ],
+  "conclusion": "#.2wK/P.RLa:Y",
+  "argumentText": "From #P_main_e2.7 with $x$ replaced by $yxy^{-1}$, one has\n\n$${\\ell({yxy^{-1}})} \\leq \\frac{{\\ell({y x^n y^{-1}})} }{n} + { c}$$\nwhenever $n$ is a power of two.  On the other hand, from #P_main_e2.6 and the #(T_qhf, 'triangle inequality') one has\n\n$${\\ell({ y x^n y^{-1} })} \\leq {\\ell({y})} + n {\\ell({x})} + {\\ell({y^{-1}})}$$\nand thus\n\n$${\\ell({yxy^{-1}})} \\leq {\\ell({x})} + { c} + \\frac{{\\ell({y})} + {\\ell({y^{-1}})} { - c}}{n}.$$\n\nSending $n \\to \\infty$, we obtain the claim.",
+  "contributor": "abc"
+}

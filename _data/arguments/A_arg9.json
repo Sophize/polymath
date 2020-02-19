@@ -1,0 +1,13 @@
+{
+  "indexable": false,
+  "premises": [
+    "#.2wK/T.R21:D",
+    "#.2wK/P.63G:Y",
+    "#.2wK/P.8xA:Y",
+    "#.2wK/P.6kM:Y",
+    "#.2wK/P.6QP:Y"
+  ],
+  "conclusion": "#.2wK/P.8N2:Y",
+  "argumentText": "Let $x,y \\in G$. We can write the inequality in #P_main_c2.12 in probabilistic form as\n\n$$f(m,k) \\leq {\\mathbf E} f\\left( \\left(m,k-\\frac{1}{2}\\right) + Y \\left(1,-\\frac{1}{2}\\right) \\right) + { 2 c}$$ \n\nwhere $Y = \\pm 1$ is a Bernoulli random variable that equals $1$ or $-1$ with equal probability. The key point here is the drift of $\\left(0, -\\frac{1}{2} \\right)$ in the right-hand side. Iterating this inequality, we see that\n\n$$f( 0, n) \\leq {\\mathbf E} f\\left( (Y_1 + \\dots + Y_{2n}) \\left(1,-\\frac{1}{2}\\right) \\right) + { 4 c n},$$ \n\nwhere $n \\geq 0$ and $Y_1,\\dots,Y_{2n}$ are independent copies of $Y$ (so in particular $Y_1+\\dots+Y_{2n}$ is an even integer).\n\nFrom the triangle inequality in #T_qhf and #P_main_e2.6 one has the inequality\n\n$$\\begin{aligned} f(m,k) & \\leq & |m| \\left(\\max( {\\ell({x})}, {\\ell({x^{-1}})}) \\right)\\\\& & + |k| \\left(\\max( {\\ell({[x,y]})}, {\\ell({[x,y]^{-1}})}) \\right) + {\\ell({e})}\\end{aligned}$$\n\nfor all integers $m,k$, where the final term ${\\ell({e})}$ is used when $m=k=0$, but can also be added in the remaining cases since it is non-negative. We conclude that \n\n$$f\\left( (Y_1 + \\dots + Y_{2n}) \\left(1, -\\frac{1}{2}\\right) \\right) \\leq A |Y_1 + \\dots + Y_{2n}| + {\\ell({e})}$$ \n\nwhere $A$ is a quantity independent of $n$; more explicitly, one can take\n\n$$A \\coloneqq \\max\\left( {\\ell({x})}, {\\ell({x^{-1}})}\\right) + \\frac{1}{2} \\max\\left({\\ell({[x,y]})}, {\\ell({[x,y]^{-1}})}\\right).$$ \n\nTaking expectations, since the random variable $Y_1+\\dots+Y_{2n}$ has mean zero and variance $2n$, we see from the #(P_cauchy, 'Cauchy–Schwarz inequality or Jensens inequality') that\n\n$${\\mathbf E}|Y_1 + \\dots + Y_{2n}|  \\leq \\left( {\\mathbf E}|Y_1 + \\dots + Y_{2n}|^2 \\right)^{1/2} = \\sqrt{2n}$$\n\nand hence \n\n$$f(0,n) \\leq A \\sqrt{2n} + {\\ell({e})} + { 4 c n}.$$ \n\nBut from #P_main_e2.7 , if $n$ is a power of $2$ then we have\n\n$${\\ell({[x,y]})} \\leq \\frac{f(0,n)}{n}  + { c}.$$\n\nCombining these two bounds and sending $n \\to \\infty$, we obtain the conclusion.",
+  "contributor": "abc"
+}

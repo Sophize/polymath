@@ -1,0 +1,7 @@
+{
+  "indexable": false,
+  "phrase": "pseudo-length function",
+  "language": "INFORMAL",
+  "formalDefinition": "A pseudo-length function on #T_arbit_group is a map ${\\ell}: G \\to [0,+\\infty)$ that obeys the properties\n\n* ${\\ell(e)} = 0$,\n* ${\\ell({ x^{-1} })} = {\\ell({x})}$,\n* ${\\ell({ x y })} \\leq {\\ell({x})} + {\\ell({ y })}$\n\nfor all $x,y \\in G$.",
+  "contributor": "abc"
+}

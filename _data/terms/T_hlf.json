@@ -1,0 +1,6 @@
+{
+  "indexable": false,
+  "phrase": "homogeneous length function",
+  "formalDefinition": "A #T_length_function that is #(T_homogeneity, 'homogeneous').",
+  "contributor": "abc"
+}
