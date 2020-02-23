@@ -4,6 +4,5 @@
   ],
   "indexable": false,
   "statement": "For any ${\\varepsilon}>0$ there exists $R \\geq 4$ with the following property: if $a,b$ are two elements of a group $G$, $B_{a,b}(R) \\subset G$ is the collection of all words in $a,b,a^{-1},b^{-1}$ of length at most $R$ so in particular $B_{a,b}(R)$ contains $[a,b]$, and the map ${\\ell}: B_{a,b}(R) \\to [0,+\\infty)$ is a “local semi-length function” which obeys the triangle inequality \n\n$${\\ell({ xy })} \\leq {\\ell({x})} + {\\ell({y})}$$\n\n whenever $x,y,xy \\in B_{a,b}(R)$, with equality when $x=y$, then one has \n\n$${\\ell({ [a,b] })} \\leq {\\varepsilon}( {\\ell({a})} + {\\ell({b})} ).$$",
-  "negativeStatement": "",
-  "contributor": "abc"
+  "negativeStatement": ""
 }

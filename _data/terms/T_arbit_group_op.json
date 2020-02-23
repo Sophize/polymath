@@ -1,6 +1,5 @@
 {
   "indexable": false,
   "phrase": "$\\cdot$",
-  "formalDefinition": "Group operation of #T_arbit_group",
-  "contributor": "abc"
+  "formalDefinition": "Group operation of #T_arbit_group"
 }

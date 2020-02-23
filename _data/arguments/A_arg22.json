@@ -4,6 +4,5 @@
     "#.2wK/T.zpa:D"
   ],
   "conclusion": "#.2wK/P.zpa:Y",
-  "argumentText": "$\\displaystyle \\|gxg^{-1}\\| = \\frac{\\|(gxg^{-1})^n\\|}{n} = \\frac{\\|gx^ng^{-1}\\|}{n} \\leq \\|x\\| + O(n^{-1}).$",
-  "contributor": "abc"
+  "argumentText": "$\\displaystyle \\|gxg^{-1}\\| = \\frac{\\|(gxg^{-1})^n\\|}{n} = \\frac{\\|gx^ng^{-1}\\|}{n} \\leq \\|x\\| + O(n^{-1}).$"
 }

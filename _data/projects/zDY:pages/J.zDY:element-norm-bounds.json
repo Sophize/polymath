@@ -1,0 +1,5 @@
+{
+  "parentPageId": "proof-discovery-tree",
+  "title": " Bounding norms of elements",
+  "description": "With this approach, we will try to improve the upper bounds on the norm ${\\| g\\|}$ of a given non-trivial group element  ${g}$  to the point where this norm must in fact vanish, which would demonstrate that no metric with the above properties on  ${F_2}$  would exist (and in fact would impose strong constraints on similar metrics existing on other groups as well).\n"
+}

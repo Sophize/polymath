@@ -1,0 +1,5 @@
+{
+  "parentPageId": "element-norm-bounds",
+  "title": "Inward repetition",
+  "description": "Use this page to understand the inward repeating pattern found in the automated proof.\n\nAs a rather trivial observation, it may be worth noting that conjugation invariance is automatic,</p><p> $\\displaystyle \\|gxg^{-1}\\| = \\frac{\\|(gxg^{-1})^n\\|}{n} = \\frac{\\|gx^ng^{-1}\\|}{n} \\leq \\|x\\| + O(n^{-1}).$ \n"
+}

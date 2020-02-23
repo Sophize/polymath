@@ -2,6 +2,5 @@
   "indexable": false,
   "phrase": "homogeneous pseudo-length function",
   "language": "INFORMAL",
-  "formalDefinition": "A #T_plf that is #(T_homogeneity, 'homogeneous').",
-  "contributor": "abc"
+  "formalDefinition": "A #T_plf that is #(T_homogeneity, 'homogeneous')."
 }

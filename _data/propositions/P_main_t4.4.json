@@ -4,6 +4,5 @@
   ],
   "indexable": false,
   "statement": "Let $G$ be a group such that the stable commutator length vanishes on $[G, G]$ and assume ${\\ell}: G \\to {\\mathbb{R}}$ satisfies and . Then there exist a real Banach space $\\mathbb{B} = (\\mathbb{B},\\| \\, \\|)$ and a group homomorphism $\\phi : G \\to \\mathbb{B}$ such that ${\\ell}$ is equivalent to $x\\mapsto \\| \\phi(x) \\|$.",
-  "negativeStatement": "",
-  "contributor": "abc"
+  "negativeStatement": ""
 }

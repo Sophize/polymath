@@ -1,6 +1,5 @@
 {
   "indexable": false,
   "phrase": "$\\mathbb{B}$",
-  "formalDefinition": "An arbitrary #T_banach_space",
-  "contributor": "abc"
+  "formalDefinition": "An arbitrary #T_banach_space"
 }

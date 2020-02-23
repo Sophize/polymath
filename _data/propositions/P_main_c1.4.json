@@ -4,6 +4,5 @@
   ],
   "indexable": true,
   "statement": "A #T_group admits a #T_hlf if and only if it is abelian and torsion-free.",
-  "negativeStatement": "",
-  "contributor": "abc"
+  "negativeStatement": ""
 }
