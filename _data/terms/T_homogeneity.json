@@ -2,5 +2,5 @@
   "indexable": false,
   "phrase": "homogeneity",
   "language": "INFORMAL",
-  "formalDefinition": "A #T_plf ${\\ell}: G\\to [0,+\\infty)$ is *homogeneous* if \n\n$${\\ell({x^n})} = |n| \\, {\\ell({x})}$$ \n\nfor all $x \\in G$ and any $n \\in {\\mathbb{Z}}$."
+  "definition": "A #T_plf ${\\ell}: G\\to [0,+\\infty)$ is *homogeneous* if \n\n$${\\ell({x^n})} = |n| \\, {\\ell({x})}$$ \n\nfor all $x \\in G$ and any $n \\in {\\mathbb{Z}}$."
 }

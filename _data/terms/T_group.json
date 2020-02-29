@@ -2,5 +2,5 @@
   "indexable": true,
   "phrase": "group",
   "language": "INFORMAL",
-  "formalDefinition": "A group is a set equipped with a binary operation that combines any two elements to form a third element in such a way that four conditions called group axioms are satisfied, namely closure, associativity, identity and invertibility."
+  "definition": "A group is a set equipped with a binary operation that combines any two elements to form a third element in such a way that four conditions called group axioms are satisfied, namely closure, associativity, identity and invertibility."
 }

@@ -1,5 +1,5 @@
 {
   "indexable": false,
   "phrase": "$\\| \\, \\|$",
-  "formalDefinition": "Norm function of #T_arbit_banach_space"
+  "definition": "Norm function of #T_arbit_banach_space"
 }

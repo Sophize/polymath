@@ -2,5 +2,5 @@
   "indexable": true,
   "phrase": "length function",
   "language": "INFORMAL",
-  "formalDefinition": "A length function is a #T_plf where  ${\\ell({x})}>0$ for all $x \\in G \\setminus \\{e\\}$"
+  "definition": "A length function is a #T_plf where  ${\\ell({x})}>0$ for all $x \\in G \\setminus \\{e\\}$"
 }

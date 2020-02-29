@@ -1,5 +1,5 @@
 {
   "indexable": false,
   "phrase": "semi-length function",
-  "formalDefinition": "a function ${\\ell}: G \\to {\\mathbb{R}}$ such that for all $x, y\\in G$, ${\\ell({xy})} \\leq {\\ell({x})} + {\\ell({y})}$"
+  "definition": "a function ${\\ell}: G \\to {\\mathbb{R}}$ such that for all $x, y\\in G$, ${\\ell({xy})} \\leq {\\ell({x})} + {\\ell({y})}$"
 }

@@ -1,5 +1,5 @@
 {
   "indexable": false,
   "phrase": "$\\mathbb{B}$",
-  "formalDefinition": "Vector space of #T_arbit_banach_space"
+  "definition": "Vector space of #T_arbit_banach_space"
 }

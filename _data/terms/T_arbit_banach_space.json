@@ -1,5 +1,5 @@
 {
   "indexable": false,
   "phrase": "$\\mathbb{B}$",
-  "formalDefinition": "An arbitrary #T_banach_space"
+  "definition": "An arbitrary #T_banach_space"
 }
