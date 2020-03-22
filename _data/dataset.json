@@ -1,0 +1,20 @@
+{
+  "name": "Polymath Projects",
+  "description": "This is the wiki for polymath projects - massively collaborative online mathematical projects.",
+  "bannerUrl": "https://i.ibb.co/6Pts73t/coollogo-com-174271406.png",
+  "iconUrl": "https://i.ibb.co/rbQHTRk/polymath-icon.png",
+  "licenses": [
+    {
+      "licenseType": "CC_BY_SA",
+      "linkToLicense": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt"  
+    }
+  ],
+  "openAcls": [
+    "READ_DATA",
+    "COMMENT"
+  ],
+  "localAutoApproveArguments": true,
+  "personalDataset": false,
+  "subscribedDatasets": [],
+  "tags": []
+}
