@@ -1,8 +1,8 @@
 {
   "indexable": false,
   "premises": [
-    "#.2wK/T.RGo:D"
+    "#.2wK/T_plf:D"
   ],
-  "conclusion": "#.2wK/P.Ro4:Y",
+  "conclusion": "#.2wK/P_main_2:Y",
   "argumentText": "The claim is trivially true for $n=0, 1$.\n\nBy setting $x=y$ in the triangle inequality we have $\\ell(x^2) \\le 2\\,\\ell(x)$.\nWe use this as the base case for our induction and assume $\\ell(x^k) \\le k\\,\\ell(x).$\n\nThen for $n=k+1$, \n\n$\\ell(x^{k+1}) \\le \\ell(x^{k}) + \\ell(x)$ using the triangle inequality on elements $x^k$ and $x$\n\nUsing this and our assumption we get $\\ell(x^{k+1}) \\le (k+1)\\,\\ell(x).$ This proves that $\\ell(x^n) \\le n\\,\\ell(x)$ for $n \\ge 0$.\n\nSince $\\ell(x^{-n}) = \\ell(x^n)$, we get $\\ell(x^n) \\le {- n}\\,\\ell(x)$ for $n < 0$.\n\nWe can combine the above two statements to get our claim."
 }

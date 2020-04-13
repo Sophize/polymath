@@ -1,9 +1,9 @@
 {
   "indexable": false,
   "premises": [
-    "#.2wK/P.8N2:Y",
-    "#.2wK/P.RGo:Y"
+    "#.2wK/P_main_p2.1:Y",
+    "#.2wK/P_main_t1.2:Y"
   ],
-  "conclusion": "#.2wK/P.6Xg:Y",
+  "conclusion": "#.2wK/P_main_c1.4:Y",
   "argumentText": "Suppose that $G$ is a group with a homogeneous semi-length function ${\\ell}: G \\to [0,+\\infty)$. Applying #P_main_p2.1 with $c=0$, we conclude that ${\\ell({[x,y]})}=0$ for all $x,y \\in G$, thus by the triangle inequality ${\\ell}$ vanishes on the commutator subgroup $[G,G]$, and therefore factors through the abelianization $G_{\\mathrm{ab}} \\coloneqq G/[G,G]$ of $G$.\n\nSince the homomorphism $\\phi: G \\to \\mathbb{B}$ can only be injective for abelian torsion-free $G$, we obtain the “only if” portion of the conclusion. Conversely, if a group $G$ is abelian and torsion-free, by the above constructions it embeds into a real vector space $\\mathbb{B} \\coloneqq G\\otimes_{\\mathbb{Z}}{\\mathbb{R}}$; now by Zorn's lemma $\\mathbb{B}$ has a norm (e.g., consider the $\\ell^1$ norm with respect to a Hamel basis of $\\mathbb{B}$), which restricts to the desired homogeneous length function on $G$. "
 }

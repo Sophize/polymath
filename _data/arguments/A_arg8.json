@@ -1,8 +1,8 @@
 {
   "indexable": false,
   "premises": [
-    "#.2wK/P.8N2:Y"
+    "#.2wK/P_main_p2.1:Y"
   ],
-  "conclusion": "#.2wK/P.8Ao:Y",
+  "conclusion": "#.2wK/P_main_r2.5:Y",
   "argumentText": "The function $\\ell'(x) := \\ell(x) + k$ is a semi-length unction. Further, $\\ell'$ satisfies the homogeneity condition with $c$ replaced by $c' := k+c$, whenever $\\ell$ satisfies homogeneity condition on the nose. Thus #P_main_p2.1 continues to hold if the triangle inequality is replaced by the condition $\\ell(xy) \\leq \\ell(x) + \\ell(y) + k$ for all $x, y\\in G$, with the bound in the conclusion becoming $5c + 4k$."
 }

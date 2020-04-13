@@ -1,9 +1,9 @@
 {
   "indexable": false,
   "premises": [
-    "#.2wK/T.8xA:D",
-    "#.2wK/T.6Zl:D"
+    "#.2wK/T_hlf:D",
+    "#.2wK/T_arbit_homomorphism:D"
   ],
-  "conclusion": "#.2wK/P.859:Y",
+  "conclusion": "#.2wK/P_main_5:Y",
   "argumentText": "TODO"
 }

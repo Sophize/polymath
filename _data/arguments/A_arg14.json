@@ -1,8 +1,8 @@
 {
   "indexable": false,
   "premises": [
-    "#.2wK/P.RLa:Y"
+    "#.2wK/P_main_l2.8:Y"
   ],
-  "conclusion": "#.2wK/P.R72:Y",
+  "conclusion": "#.2wK/P_main_r2.9:Y",
   "argumentText": "Set $c=0$ in #P_main_l2.8"
 }

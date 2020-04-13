@@ -1,9 +1,9 @@
 {
   "indexable": false,
   "premises": [
-    "#.2wK/P.60d:Y",
-    "#.2wK/P.RLa:Y"
+    "#.2wK/P_main_l2.10:Y",
+    "#.2wK/P_main_l2.8:Y"
   ],
-  "conclusion": "#.2wK/P.63G:Y",
+  "conclusion": "#.2wK/P_main_c2.12:Y",
   "argumentText": "Observe that $x^m [x,y]^k$ is conjugate to both $x (x^{m-1} [x,y]^k)$ and to $(y^{-1} x^m [x,y]^{k-1} xy) x^{-1}$, hence by one has\n\n$${\\ell({ x^m [x,y]^k })} \\leq \\frac{{\\ell({ x^{m-1} [x,y]^k })} + {\\ell({ y^{-1} x^{m} [x,y]^{k-1} xy })}}{2} + { \\frac{3}{2} c}.$$\n\nSince $y^{-1} x^{m} [x,y]^{k-1} xy$ is conjugate to $x^{m+1}[x,y]^{k-1}$, the claim now follows from #P_main_l2.8."
 }
