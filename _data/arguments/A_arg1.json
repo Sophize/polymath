@@ -1,8 +1,8 @@
 {
   "indexable": false,
   "premises": [
-    "#.2wK/T_plf"
+    "#T_plf"
   ],
-  "conclusion": "#.2wK/P_main_1:Y",
+  "conclusion": "#P_main_1:Y",
   "argumentText": "Hint: Set $d(x,y) \\coloneqq {\\ell({x^{-1}y})}$"
 }

@@ -1,11 +1,11 @@
 {
-  "permanentPtr": "#.2wK/B.default",
+  "permanentPtr": "#B.default",
   "names": [
     "Polymath14 default"
   ],
   "indexable": true,
   "unsupportedPropositionPtrs": [
-    "#.2wK/P.6QP:Y",
-    "#.global/P.lqm:Y"
+    "#P.6QP:Y",
+    "#global/P.lqm:Y"
   ]
 }

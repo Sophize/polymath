@@ -1,8 +1,8 @@
 {
   "indexable": false,
   "premises": [
-    "#.2wK/T_hlf_extended:D"
+    "#T_hlf_extended:D"
   ],
-  "conclusion": "#.2wK/P_conj_inv:Y",
+  "conclusion": "#P_conj_inv:Y",
   "argumentText": "$\\displaystyle \\|gxg^{-1}\\| = \\frac{\\|(gxg^{-1})^n\\|}{n} = \\frac{\\|gx^ng^{-1}\\|}{n} \\leq \\|x\\| + O(n^{-1}).$"
 }

@@ -6,6 +6,6 @@
   "statement": "For any $x,y \\in G$, $\\ell{yxy^{-1} } \\leq { \\ell{ x } + c}$",
   "negativeStatement": "",
   "lookupTerms": [
-    "#.2wK/T.6QP"
+    "#T.6QP"
   ]
 }

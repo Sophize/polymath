@@ -1,8 +1,8 @@
 {
   "indexable": false,
   "premises": [
-    "#.2wK/T_qhf:D"
+    "#T_qhf:D"
   ],
-  "conclusion": "#.2wK/P_main_e2.6:Y",
+  "conclusion": "#P_main_e2.6:Y",
   "argumentText": "Use induction on the triangle inequality in #T_qhf."
 }

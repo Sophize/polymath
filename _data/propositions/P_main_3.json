@@ -6,6 +6,6 @@
   "statement": "#(T_homogeneity, 'Homogeneity condition') is equivalent to the triangle inequality holding with equality whenever $x=y$, i.e., ${\\ell({x^2})} = 2 \\, {\\ell({x})}$.",
   "negativeStatement": "",
   "lookupTerms": [
-    "#.2wK/T.6Xg"
+    "#T.6Xg"
   ]
 }

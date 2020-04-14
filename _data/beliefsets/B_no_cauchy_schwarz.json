@@ -4,6 +4,6 @@
   ],
   "indexable": true,
   "unsupportedPropositionPtrs": [
-    "#.global/P.lqm:Y"
+    "#global/P.lqm:Y"
   ]
 }

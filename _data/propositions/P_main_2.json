@@ -6,6 +6,6 @@
   "statement": "$${\\ell({x^n})} \\leq |n| \\, {\\ell({x})}$$\n\nfor all $x \\in G$ and $n \\in {\\mathbb{Z}}$.",
   "negativeStatement": "",
   "lookupTerms": [
-    "#.2wK/T.6Xg"
+    "#T.6Xg"
   ]
 }
