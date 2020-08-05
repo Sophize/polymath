@@ -1,1 +1,1 @@
-Data repository for polymath projects dataset (.2wK).
+Data repository for polymath projects dataset.
