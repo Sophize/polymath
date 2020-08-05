@@ -1,0 +1,6 @@
+{
+  "names": ["Transfer Principal", "Theorem B"],
+  "indexable": false,
+  "statement": "Every (separable) abelian normed metric semigroup ${\\mathscr G}$ canonically and isometrically embeds into a “smallest” (separable) Banach space ${\\mathbb B}({\\mathscr G})$. In particular, the theory of Bochner integration extends to all such semigroups ${\\mathscr G}$.",
+  "negativeStatement": ""
+}

@@ -1,9 +1,5 @@
 {
-  "names": [
-    "Polymath14 w/o Cauchy-Schwarz"
-  ],
-  "indexable": true,
-  "unsupportedPropositionPtrs": [
-    "#global/P.lqm:Y"
-  ]
+  "names": ["Polymath14 w/o Cauchy-Schwarz"],
+  "indexable": false,
+  "unsupportedPropositionPtrs": ["#P_transfer_principal"]
 }
