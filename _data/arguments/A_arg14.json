@@ -1,8 +1,6 @@
 {
   "indexable": false,
-  "premises": [
-    "#P_main_l2.8:Y"
-  ],
+  "premises": ["#P_ANT_ZFC", "#P_main_l2.8:Y"],
   "conclusion": "#P_main_r2.9:Y",
   "argumentText": "Set $c=0$ in #P_main_l2.8"
 }

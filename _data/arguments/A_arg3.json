@@ -1,8 +1,6 @@
 {
   "indexable": false,
-  "premises": [
-    "#T_plf:D"
-  ],
+  "premises": ["#P_ANT_ZFC", "#T_plf:D"],
   "conclusion": "#P_main_3:Y",
   "argumentText": "$\\| x^2 \\| = 2 \\|x\\|$ implies $\\|x^n \\| = n \\|x\\|$ for $n$ a power of two, while the triangle inequality gives $\\| x^n \\| \\leq n \\|x\\|$ for all positive $n$ ; since any natural number is eventually upper bounded by a power of two, the triangle inequality again then gives $\\| x^n \\| = n \\|x\\|$ for all positive $n$. Finally, replacing $\\|x\\|$ with $\\max( \\|x\\|, \\|x^{-1} \\|)$ gives the negative $n$ cases of the linear growth axiom."
 }

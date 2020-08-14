@@ -1,9 +1,6 @@
 {
   "indexable": false,
-  "premises": [
-    "#T_hlf:D",
-    "#T_arbit_homomorphism:D"
-  ],
+  "premises": ["#P_ANT_ZFC", "#T_hlf:D", "#T_arbit_homomorphism:D"],
   "conclusion": "#P_main_5:Y",
   "argumentText": "TODO"
 }

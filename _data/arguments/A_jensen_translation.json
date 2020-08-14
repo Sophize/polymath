@@ -1,6 +1,6 @@
 {
   "indexable": false,
-  "premises": ["#metamath/P.0nMK"],
-  "conclusion": "#planetmath/P.7aW",
+  "premises": ["#P_ANT_ZFC", "#metamath/P_jensen"],
+  "conclusion": "#planetmath/P_JensensInequality",
   "argumentText": "$\\displaystyle \\|gxg^{-1}\\| = \\frac{\\|(gxg^{-1})^n\\|}{n} = \\frac{\\|gx^ng^{-1}\\|}{n} \\leq \\|x\\| + O(n^{-1}).$"
 }

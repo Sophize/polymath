@@ -1,0 +1,5 @@
+{
+  "indexable": false,
+  "premises": ["#standards/P_ANT", "#standards/P_ZFC"],
+  "conclusion": "#P_ANT_ZFC"
+}

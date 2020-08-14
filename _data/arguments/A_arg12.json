@@ -1,8 +1,6 @@
 {
   "indexable": false,
-  "premises": [
-    "#P_main_6:Y"
-  ],
+  "premises": ["#P_ANT_ZFC", "#P_main_6:Y"],
   "conclusion": "#P_main_e2.7:Y",
   "argumentText": "Rearrange #P_main_6"
 }

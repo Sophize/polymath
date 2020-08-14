@@ -1,10 +1,6 @@
 {
   "indexable": false,
-  "premises": [
-    "#P_main_e2.7:Y",
-    "#P_main_l2.8:Y",
-    "#T_qhf:D"
-  ],
+  "premises": ["#P_ANT_ZFC", "#P_main_e2.7:Y", "#P_main_l2.8:Y", "#T_qhf:D"],
   "conclusion": "#P_main_l2.10:Y",
   "argumentText": "If we write $x = swys^{-1} = t zw^{-1} t^{-1}$ for some $s,t \\in G$, then from we have\n\n$$\\begin{aligned} {\\ell({x})} &\\leq \\frac{{\\ell({ x^n x^n })} }{2n} + { c} \\\\\n&= \\frac{{\\ell({ s(wy)^n s^{-1}t (zw^{-1})^n t^{-1} })} }{2n} +\n{ c}\\end{aligned}$$ \n\nwhenever $n$ is a power of two. From #P_main_l2.8 and #(T_qhf, 'quasi-homogeneity condition') one has\n\n$$\\begin{aligned}\n{\\ell({(wy)^{k+1} s^{-1}t (zw^{-1})^{k+1} })} &= {\\ell({ w y (wy)^k s^{-1} t\n(zw^{-1})^k z w^{-1} })} \\\\\n&\\leq {\\ell({ y (wy)^k s^{-1} t (zw^{-1})^k z })} + { c} \\\\\n&\\leq {\\ell({ (wy)^k s^{-1} t (zw^{-1})^k })} + {\\ell({y})} + {\\ell({z})} +\n{ c}\\end{aligned}$$ \n\nfor any $k \\geq 0$, and hence by induction\n\n$${\\ell({(wy)^n s^{-1}t (zw^{-1})^n })} \\leq {\\ell({s^{-1} t})} + n ( {\\ell({y})} +\n{\\ell({z})} + { c} ).$$ \n\nInserting this into the previous bound for ${\\ell({x})}$ via two applications of , we conclude that \n\n$${\\ell({x})} \\leq \\frac{{\\ell({y})} + {\\ell({z})}+ { c} }{2} +\n\\frac{{\\ell({s})} + {\\ell({s^{-1}t})} + {\\ell({t^{-1}})} }{2n} + { c};$$ \n\nsending $n \\to \\infty$, we obtain the claim."
 }

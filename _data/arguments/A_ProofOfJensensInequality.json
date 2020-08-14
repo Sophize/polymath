@@ -2,7 +2,7 @@
   "indexable": true,
   "language": "INFORMAL",
   "premises": [],
-  "conclusion": "#planetmath/P.7aW",
+  "conclusion": "#planetmath/P_JensensInequality",
   "argumentText": "We prove an equivalent, more convenient formulation: Let $X$ be some\nrandom variable, and let $f(x)$ be a convex function (defined at least\non a segment containing the range of $X$). Then the expected value of\n$f(X)$ is at least the value of $f$ at the mean of $X$:\n$${\\operatorname{\\mathbb{E}}}[f(X)] \\ge f({\\operatorname{\\mathbb{E}}}[X]).$$\n\nIndeed, let $c={\\operatorname{\\mathbb{E}}}[X]$. Since $f(x)$ is convex,\nthere exists a supporting line for $f(x)$ at $c$:\n$$\\varphi(x)=\\alpha (x-c) + f(c)$$ for some $\\alpha$, and\n$\\varphi(x)\\le f(x)$. Then\n$${\\operatorname{\\mathbb{E}}}[f(X)] \\ge {\\operatorname{\\mathbb{E}}}[\\varphi(X)] = {\\operatorname{\\mathbb{E}}}[\\alpha (X-c) + f(c)] = f(c)$$\nas claimed.",
   "citations": [
     {

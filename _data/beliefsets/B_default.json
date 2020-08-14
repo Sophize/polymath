@@ -1,6 +1,6 @@
 {
   "permanentPtr": "#B.default",
-  "names": ["Polymath14 default"],
+  "names": ["Polymath default"],
   "indexable": true,
-  "unsupportedPropositionPtrs": ["#P_transfer_principal"]
+  "unsupportedPropositionPtrs": ["#standards/P_ANT", "#standards/P_ZFC"]
 }

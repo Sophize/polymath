@@ -6,15 +6,11 @@
   "licenses": [
     {
       "licenseType": "CC_BY_SA",
-      "linkToLicense": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt"  
+      "linkToLicense": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
     }
   ],
-  "openAcls": [
-    "READ_DATA",
-    "COMMENT"
-  ],
-  "localAutoApproveArguments": true,
-  "personalDataset": false,
+  "openAcls": ["READ_DATA", "COMMENT"],
+  "customHomeArticle": true,
   "subscribedDatasets": [],
   "tags": []
 }
