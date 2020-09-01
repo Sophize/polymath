@@ -1,5 +1,5 @@
 {
   "parentPageId": "proof-discovery-tree",
   "title": "Constructions",
-  "description": "This page discusses techniques that could be used for explicitly constructing the metric.\n"
+  "description": "This page discusses techniques that could be used for explicitly constructing the metric.\n\nThe following are the restrictions of the metric found so far.\nPlease check if your proposed solution works with:\n- Commutator must be greater than 0\n- Must follow triangle inequality\n- Commutator value should be less than $0.956522$\n- It can't be an integer-valued norm."
 }
